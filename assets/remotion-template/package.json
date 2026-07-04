@@ -1,0 +1,19 @@
+{
+  "name": "render-talking-video-template",
+  "private": true,
+  "scripts": {
+    "start": "remotion studio src/index.tsx",
+    "render": "node node_modules/@remotion/cli/remotion-cli.js render src/index.tsx TalkingVideo out/final.mp4 --props manifest.json"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.0",
+    "remotion": "^4.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "typescript": "^5.0.0"
+  }
+}

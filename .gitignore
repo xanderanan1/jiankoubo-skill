@@ -1,8 +1,8 @@
+private/
+*.local.json
+**/__pycache__/
+**/*.pyc
+node_modules/
+package-lock.json
+out/
 runs/
-.DS_Store
-.tools/
-demo-output/
-*.preview.html
-*.convert.prompt.txt
-social-card-koubo-skill/node_modules/
-social-card-koubo-skill/output/

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Render Talking Video"
+  short_description: "Create polished talking-head MP4 videos"
+  default_prompt: "Use $render-talking-video to turn my talking-head video and script into a finished MP4."
