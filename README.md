@@ -16,6 +16,10 @@
 
 这个仓库只保留 skill 本体，不包含过程文档、运行产物或临时调试文件。
 
+### 效果展示
+
+- 演示视频，[demo/jiankoubo-demo.mp4](demo/jiankoubo-demo.mp4)
+
 ### 功能概览
 
 这个 skill 主要面向创作者口播剪辑场景，尤其适合中文口播，因为很多停顿和卡壳发生在句子内部，句子级处理不够细。
@@ -130,6 +134,10 @@ It is built around a very specific workflow:
 - render the final MP4 with Remotion
 
 This repository only keeps the skill itself. It does not include process notes, run outputs, or temporary debugging artifacts.
+
+### Demo
+
+- Demo video, [demo/jiankoubo-demo.mp4](demo/jiankoubo-demo.mp4)
 
 ### Overview
 
