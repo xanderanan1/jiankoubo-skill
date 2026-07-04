@@ -18,7 +18,10 @@
 
 ### 效果展示
 
-- 演示视频，[demo/jiankoubo-demo.mp4](demo/jiankoubo-demo.mp4)
+[![jiankoubo demo](demo/jiankoubo-demo-preview.gif)](demo/jiankoubo-demo.mp4)
+
+- 点击上方预览图可打开完整演示视频
+- 原始视频文件，[demo/jiankoubo-demo.mp4](demo/jiankoubo-demo.mp4)
 
 ### 功能概览
 
@@ -137,7 +140,10 @@ This repository only keeps the skill itself. It does not include process notes, 
 
 ### Demo
 
-- Demo video, [demo/jiankoubo-demo.mp4](demo/jiankoubo-demo.mp4)
+[![jiankoubo demo](demo/jiankoubo-demo-preview.gif)](demo/jiankoubo-demo.mp4)
+
+- Click the preview above to open the full demo video
+- Raw video file, [demo/jiankoubo-demo.mp4](demo/jiankoubo-demo.mp4)
 
 ### Overview
 
